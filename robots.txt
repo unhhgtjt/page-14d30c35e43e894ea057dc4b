@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b.kecawnb.cn/sitemap.xml
